@@ -1,0 +1,53 @@
+# טל רבי משרד עורכי דין — Generative Engine Optimization Map
+
+> A שירותים משפטיים business.
+
+---
+
+## Pages
+
+### Home
+https://-2ba4b99d.zappy5.app
+
+### Services
+https://-2ba4b99d.zappy5.app/services
+
+### About
+https://-2ba4b99d.zappy5.app/about
+
+### Contact
+https://-2ba4b99d.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-2ba4b99d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-2ba4b99d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-2ba4b99d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About טל רבי משרד עורכי דין
+טל רבי משרד עורכי דין is a business in the שירותים משפטיים industry.
+
+## Target Audience
+- לקוחות בתחום דיני משפחה
+
+## Industry
+שירותים משפטיים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-2ba4b99d.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-2ba4b99d.zappy5.app/robots.txt
